@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STLParser", "STLParser\STLParser.csproj", "{87101993-9DDE-4E0E-836D-BCC01CAF684B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STL.Parser.Domain", "STL.Parser.Domain\STL.Parser.Domain.csproj", "{9472458F-9606-4E48-A46E-DBC8F4CF1D99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STL.Parser.Models", "STL.Parser.Models\STL.Parser.Models.csproj", "{5AC46711-6E8A-4B1B-B30D-58D076948760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87101993-9DDE-4E0E-836D-BCC01CAF684B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87101993-9DDE-4E0E-836D-BCC01CAF684B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87101993-9DDE-4E0E-836D-BCC01CAF684B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87101993-9DDE-4E0E-836D-BCC01CAF684B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9472458F-9606-4E48-A46E-DBC8F4CF1D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9472458F-9606-4E48-A46E-DBC8F4CF1D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9472458F-9606-4E48-A46E-DBC8F4CF1D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9472458F-9606-4E48-A46E-DBC8F4CF1D99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC46711-6E8A-4B1B-B30D-58D076948760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC46711-6E8A-4B1B-B30D-58D076948760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC46711-6E8A-4B1B-B30D-58D076948760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC46711-6E8A-4B1B-B30D-58D076948760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
